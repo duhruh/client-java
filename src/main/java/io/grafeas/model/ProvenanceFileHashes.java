@@ -28,7 +28,7 @@ import java.util.List;
  * Container message for hashes of byte content of files, used in source messages to verify integrity of source input to the build.
  */
 @Schema(description = "Container message for hashes of byte content of files, used in source messages to verify integrity of source input to the build.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class ProvenanceFileHashes {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class ProvenanceFileHashes {
 
   @SerializedName("file_hash")
   private List<ProvenanceHash> fileHash = null;

@@ -31,7 +31,7 @@ import java.util.Map;
  * Source describes the location of the source used for the build.
  */
 @Schema(description = "Source describes the location of the source used for the build.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class ProvenanceSource {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class ProvenanceSource {
 
   @SerializedName("artifact_storage_source_uri")
   private String artifactStorageSourceUri = null;

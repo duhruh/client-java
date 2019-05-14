@@ -1,10 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.google.grafeas</groupId>
-  <artifactId>grafeas</artifactId>
+  <groupId>com.github.duhruh</groupId>
+  <artifactId>client-java</artifactId>
   <packaging>jar</packaging>
-  <name>grafeas</name>
+  <name>client-java</name>
   <version>v1beta1</version>
   <url>https://github.com/swagger-api/swagger-codegen</url>
   <description>An API to insert and retrieve annotations on cloud artifacts.</description>

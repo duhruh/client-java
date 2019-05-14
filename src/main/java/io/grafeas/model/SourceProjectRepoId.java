@@ -25,7 +25,7 @@ import java.io.IOException;
  * Selects a repo using a Google Cloud Platform project ID (e.g., winged-cargo-31) and a repo name within that project.
  */
 @Schema(description = "Selects a repo using a Google Cloud Platform project ID (e.g., winged-cargo-31) and a repo name within that project.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class SourceProjectRepoId {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class SourceProjectRepoId {
 
   @SerializedName("project_id")
   private String projectId = null;

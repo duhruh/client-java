@@ -28,7 +28,7 @@ import java.util.List;
  * Response for listing occurrences for a note.
  */
 @Schema(description = "Response for listing occurrences for a note.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class V1beta1ListNoteOccurrencesResponse {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class V1beta1ListNoteOccurrencesResponse {
 
   @SerializedName("occurrences")
   private List<V1beta1Occurrence> occurrences = null;

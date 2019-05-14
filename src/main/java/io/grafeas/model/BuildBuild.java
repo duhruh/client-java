@@ -26,7 +26,7 @@ import java.io.IOException;
  * Note holding the version of the provider&#x27;s builder and the signature of the provenance message in the build details occurrence.
  */
 @Schema(description = "Note holding the version of the provider's builder and the signature of the provenance message in the build details occurrence.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class BuildBuild {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class BuildBuild {
 
   @SerializedName("builder_version")
   private String builderVersion = null;

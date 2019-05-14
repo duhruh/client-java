@@ -29,7 +29,7 @@ import java.util.List;
  * An attestation wrapper that uses the Grafeas &#x60;Signature&#x60; message. This attestation must define the &#x60;serialized_payload&#x60; that the &#x60;signatures&#x60; verify and any metadata necessary to interpret that plaintext.  The signatures should always be over the &#x60;serialized_payload&#x60; bytestring.
  */
 @Schema(description = "An attestation wrapper that uses the Grafeas `Signature` message. This attestation must define the `serialized_payload` that the `signatures` verify and any metadata necessary to interpret that plaintext.  The signatures should always be over the `serialized_payload` bytestring.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class AttestationGenericSignedAttestation {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class AttestationGenericSignedAttestation {
 
   @SerializedName("content_type")
   private AttestationGenericSignedAttestationContentType contentType = null;

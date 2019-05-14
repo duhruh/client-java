@@ -31,7 +31,7 @@ import java.util.Map;
  * A SourceContext is a reference to a tree of files. A SourceContext together with a path point to a unique revision of a single file or directory.
  */
 @Schema(description = "A SourceContext is a reference to a tree of files. A SourceContext together with a path point to a unique revision of a single file or directory.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class SourceSourceContext {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class SourceSourceContext {
 
   @SerializedName("cloud_repo")
   private SourceCloudRepoSourceContext cloudRepo = null;

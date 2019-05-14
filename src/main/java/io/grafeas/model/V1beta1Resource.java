@@ -26,7 +26,7 @@ import java.io.IOException;
  * An entity that can have metadata. For example, a Docker image.
  */
 @Schema(description = "An entity that can have metadata. For example, a Docker image.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class V1beta1Resource {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class V1beta1Resource {
 
   @SerializedName("name")
   private String name = null;

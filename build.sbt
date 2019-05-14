@@ -1,7 +1,7 @@
 lazy val root = (project in file(".")).
   settings(
-    organization := "com.google.grafeas",
-    name := "grafeas",
+    organization := "com.github.duhruh",
+    name := "client-java",
     version := "v1beta1",
     scalaVersion := "2.11.4",
     scalacOptions ++= Seq("-feature"),

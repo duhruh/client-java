@@ -26,7 +26,7 @@ import java.io.IOException;
  * Details of a package occurrence.
  */
 @Schema(description = "Details of a package occurrence.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class V1beta1packageDetails {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class V1beta1packageDetails {
 
   @SerializedName("installation")
   private PackageInstallation installation = null;

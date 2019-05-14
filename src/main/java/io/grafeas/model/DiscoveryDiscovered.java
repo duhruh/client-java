@@ -29,7 +29,7 @@ import org.threeten.bp.OffsetDateTime;
  * Provides information about the analysis status of a discovered resource.
  */
 @Schema(description = "Provides information about the analysis status of a discovered resource.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class DiscoveryDiscovered {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class DiscoveryDiscovered {
 
   @SerializedName("continuous_analysis")
   private DiscoveredContinuousAnalysis continuousAnalysis = null;

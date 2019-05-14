@@ -27,7 +27,7 @@ import java.io.IOException;
  * This represents a particular channel of distribution for a given package. E.g., Debian&#x27;s jessie-backports dpkg mirror.
  */
 @Schema(description = "This represents a particular channel of distribution for a given package. E.g., Debian's jessie-backports dpkg mirror.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class PackageDistribution {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class PackageDistribution {
 
   @SerializedName("cpe_uri")
   private String cpeUri = null;

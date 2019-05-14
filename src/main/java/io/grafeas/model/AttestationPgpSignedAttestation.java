@@ -26,7 +26,7 @@ import java.io.IOException;
  * An attestation wrapper with a PGP-compatible signature. This message only supports &#x60;ATTACHED&#x60; signatures, where the payload that is signed is included alongside the signature itself in the same file.
  */
 @Schema(description = "An attestation wrapper with a PGP-compatible signature. This message only supports `ATTACHED` signatures, where the payload that is signed is included alongside the signature itself in the same file.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class AttestationPgpSignedAttestation {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class AttestationPgpSignedAttestation {
 
   @SerializedName("signature")
   private String signature = null;

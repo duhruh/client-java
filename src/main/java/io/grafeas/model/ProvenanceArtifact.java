@@ -27,7 +27,7 @@ import java.util.List;
  * Artifact describes a build product.
  */
 @Schema(description = "Artifact describes a build product.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class ProvenanceArtifact {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class ProvenanceArtifact {
 
   @SerializedName("checksum")
   private String checksum = null;

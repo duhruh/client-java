@@ -27,7 +27,7 @@ import java.util.List;
  * Command describes a step performed as part of the build pipeline.
  */
 @Schema(description = "Command describes a step performed as part of the build pipeline.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class ProvenanceCommand {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class ProvenanceCommand {
 
   @SerializedName("name")
   private String name = null;

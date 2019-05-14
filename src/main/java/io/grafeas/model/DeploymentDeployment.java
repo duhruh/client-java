@@ -29,7 +29,7 @@ import org.threeten.bp.OffsetDateTime;
  * The period during which some deployable was active in a runtime.
  */
 @Schema(description = "The period during which some deployable was active in a runtime.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class DeploymentDeployment {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class DeploymentDeployment {
 
   @SerializedName("user_email")
   private String userEmail = null;

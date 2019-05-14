@@ -27,7 +27,7 @@ import java.io.IOException;
  * A CloudRepoSourceContext denotes a particular revision in a Google Cloud Source Repo.
  */
 @Schema(description = "A CloudRepoSourceContext denotes a particular revision in a Google Cloud Source Repo.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class SourceCloudRepoSourceContext {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class SourceCloudRepoSourceContext {
 
   @SerializedName("repo_id")
   private SourceRepoId repoId = null;

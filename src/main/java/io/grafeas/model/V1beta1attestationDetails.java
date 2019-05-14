@@ -26,7 +26,7 @@ import java.io.IOException;
  * Details of an attestation occurrence.
  */
 @Schema(description = "Details of an attestation occurrence.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class V1beta1attestationDetails {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:45:09.912-07:00[America/Los_Angeles]")public class V1beta1attestationDetails {
 
   @SerializedName("attestation")
   private AttestationAttestation attestation = null;
