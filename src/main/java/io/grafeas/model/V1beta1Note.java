@@ -37,7 +37,7 @@ import org.threeten.bp.OffsetDateTime;
  * A type of analysis that can be done for a resource.
  */
 @Schema(description = "A type of analysis that can be done for a resource.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class V1beta1Note {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class V1beta1Note {
 
   @SerializedName("name")
   private String name = null;

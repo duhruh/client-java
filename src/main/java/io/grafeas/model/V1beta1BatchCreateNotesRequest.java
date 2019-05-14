@@ -29,7 +29,7 @@ import java.util.Map;
  * Request to create notes in batch.
  */
 @Schema(description = "Request to create notes in batch.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class V1beta1BatchCreateNotesRequest {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class V1beta1BatchCreateNotesRequest {
 
   @SerializedName("parent")
   private String parent = null;

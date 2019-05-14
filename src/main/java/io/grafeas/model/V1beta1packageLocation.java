@@ -26,7 +26,7 @@ import java.io.IOException;
  * An occurrence of a particular package installation found within a system&#x27;s filesystem. E.g., glibc was found in &#x60;/var/lib/dpkg/status&#x60;.
  */
 @Schema(description = "An occurrence of a particular package installation found within a system's filesystem. E.g., glibc was found in `/var/lib/dpkg/status`.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class V1beta1packageLocation {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class V1beta1packageLocation {
 
   @SerializedName("cpe_uri")
   private String cpeUri = null;

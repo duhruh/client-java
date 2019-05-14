@@ -25,7 +25,7 @@ import java.io.IOException;
  * A GitSourceContext denotes a particular revision in a third party Git repository (e.g., GitHub).
  */
 @Schema(description = "A GitSourceContext denotes a particular revision in a third party Git repository (e.g., GitHub).")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class SourceGitSourceContext {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class SourceGitSourceContext {
 
   @SerializedName("url")
   private String url = null;

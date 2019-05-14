@@ -28,7 +28,7 @@ import java.util.List;
  * This represents how a particular software package may be installed on a system.
  */
 @Schema(description = "This represents how a particular software package may be installed on a system.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class PackageInstallation {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class PackageInstallation {
 
   @SerializedName("name")
   private String name = null;

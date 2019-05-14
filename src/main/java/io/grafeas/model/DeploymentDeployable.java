@@ -27,7 +27,7 @@ import java.util.List;
  * An artifact that can be deployed in some runtime.
  */
 @Schema(description = "An artifact that can be deployed in some runtime.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class DeploymentDeployable {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class DeploymentDeployable {
 
   @SerializedName("resource_uri")
   private List<String> resourceUri = null;

@@ -26,7 +26,7 @@ import java.io.IOException;
  * Layer holds metadata specific to a layer of a Docker image.
  */
 @Schema(description = "Layer holds metadata specific to a layer of a Docker image.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class ImageLayer {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class ImageLayer {
 
   @SerializedName("directive")
   private LayerDirective directive = null;

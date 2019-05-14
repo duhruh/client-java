@@ -28,7 +28,7 @@ import java.util.List;
  * Response for creating notes in batch.
  */
 @Schema(description = "Response for creating notes in batch.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class V1beta1BatchCreateNotesResponse {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class V1beta1BatchCreateNotesResponse {
 
   @SerializedName("notes")
   private List<V1beta1Note> notes = null;

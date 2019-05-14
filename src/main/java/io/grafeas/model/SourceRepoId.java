@@ -26,7 +26,7 @@ import java.io.IOException;
  * A unique identifier for a Cloud Repo.
  */
 @Schema(description = "A unique identifier for a Cloud Repo.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class SourceRepoId {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class SourceRepoId {
 
   @SerializedName("project_repo_id")
   private SourceProjectRepoId projectRepoId = null;

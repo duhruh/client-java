@@ -33,7 +33,7 @@ import org.threeten.bp.OffsetDateTime;
  * Provenance of a build. Contains all information needed to verify the full details about the build from source to completion.
  */
 @Schema(description = "Provenance of a build. Contains all information needed to verify the full details about the build from source to completion.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class ProvenanceBuildProvenance {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class ProvenanceBuildProvenance {
 
   @SerializedName("id")
   private String id = null;

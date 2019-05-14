@@ -26,7 +26,7 @@ import java.io.IOException;
  * Details of an image occurrence.
  */
 @Schema(description = "Details of an image occurrence.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class V1beta1imageDetails {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class V1beta1imageDetails {
 
   @SerializedName("derived_image")
   private ImageDerived derivedImage = null;

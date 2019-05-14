@@ -26,7 +26,7 @@ import java.io.IOException;
  * Message encapsulating the signature of the verified build.
  */
 @Schema(description = "Message encapsulating the signature of the verified build.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class BuildBuildSignature {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class BuildBuildSignature {
 
   @SerializedName("public_key")
   private String publicKey = null;

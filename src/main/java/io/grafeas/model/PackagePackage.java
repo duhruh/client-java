@@ -28,7 +28,7 @@ import java.util.List;
  * This represents a particular package that is distributed over various channels. E.g., glibc (aka libc6) is distributed by many, at various versions.
  */
 @Schema(description = "This represents a particular package that is distributed over various channels. E.g., glibc (aka libc6) is distributed by many, at various versions.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class PackagePackage {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class PackagePackage {
 
   @SerializedName("name")
   private String name = null;

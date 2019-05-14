@@ -26,7 +26,7 @@ import java.io.IOException;
  * Note kind that represents a logical attestation \&quot;role\&quot; or \&quot;authority\&quot;. For example, an organization might have one &#x60;Authority&#x60; for \&quot;QA\&quot; and one for \&quot;build\&quot;. This note is intended to act strictly as a grouping mechanism for the attached occurrences (Attestations). This grouping mechanism also provides a security boundary, since IAM ACLs gate the ability for a principle to attach an occurrence to a given note. It also provides a single point of lookup to find all attached attestation occurrences, even if they don&#x27;t all live in the same project.
  */
 @Schema(description = "Note kind that represents a logical attestation \"role\" or \"authority\". For example, an organization might have one `Authority` for \"QA\" and one for \"build\". This note is intended to act strictly as a grouping mechanism for the attached occurrences (Attestations). This grouping mechanism also provides a security boundary, since IAM ACLs gate the ability for a principle to attach an occurrence to a given note. It also provides a single point of lookup to find all attached attestation occurrences, even if they don't all live in the same project.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class AttestationAuthority {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class AttestationAuthority {
 
   @SerializedName("hint")
   private AuthorityHint hint = null;

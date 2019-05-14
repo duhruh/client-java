@@ -27,7 +27,7 @@ import java.util.List;
  * A set of properties that uniquely identify a given Docker image.
  */
 @Schema(description = "A set of properties that uniquely identify a given Docker image.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class ImageFingerprint {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class ImageFingerprint {
 
   @SerializedName("v1_name")
   private String v1Name = null;

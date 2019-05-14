@@ -26,7 +26,7 @@ import java.io.IOException;
  * A note that indicates a type of analysis a provider would perform. This note exists in a provider&#x27;s project. A &#x60;Discovery&#x60; occurrence is created in a consumer&#x27;s project at the start of analysis.
  */
 @Schema(description = "A note that indicates a type of analysis a provider would perform. This note exists in a provider's project. A `Discovery` occurrence is created in a consumer's project at the start of analysis.")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:00:24.051-07:00[America/Los_Angeles]")public class DiscoveryDiscovery {
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-05-14T11:23:37.921-07:00[America/Los_Angeles]")public class DiscoveryDiscovery {
 
   @SerializedName("analysis_kind")
   private V1beta1NoteKind analysisKind = null;
